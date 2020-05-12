@@ -5,7 +5,7 @@ import csv
 from datetime import date
 import json 
 
-dataDir="/home/sapan/Desktop/trading/data/"
+dataDir="C:\\Users\\Sapan Tanted\\Desktop\\trading\\data\\"
 
 # json.dump(list(companySymbols),open(dataDir+'company_list.json','w'))
 companySymbols=json.load(open(dataDir+"company_list.json",'r'))

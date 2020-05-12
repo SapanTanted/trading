@@ -1,0 +1,1 @@
+ xmysql -h localhost -u root -d black_pearl -n 8081
